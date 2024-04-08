@@ -12,8 +12,8 @@
   - 본인의 규칙 및 스트릭을 본인 이름 폴더 아래 README.md 파일로 추가
   - 각자의 목표에 맞게 문제를 풀어 파일을 업로드 할 것
   - 파일명은 `출처_문제번호.파일형식` 으로 생성
-      - [프로그래머스 예제][plink] : pro_42889.js 
-      - [백준 예제][blink] : baek_9942.js 
+      - [프로그래머스 예제][plink] : P_42889.js 
+      - [백준 예제][blink] : B_9942.js 
        
 [plink]:https://school.programmers.co.kr/learn/courses/30/lessons/42889
 [blink]:https://www.acmicpc.net/problem/9942
